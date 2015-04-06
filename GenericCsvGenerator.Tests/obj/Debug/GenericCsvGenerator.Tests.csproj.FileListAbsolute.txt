@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GenericCsvGenerator\GenericCsvGenerator.Tests\bin\Debug\GenericCsvGenerator.Tests.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GenericCsvGenerator\GenericCsvGenerator.Tests\bin\Debug\GenericCsvGenerator.Tests.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GenericCsvGenerator\GenericCsvGenerator.Tests\bin\Debug\GenericCsvGenerator.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GenericCsvGenerator\GenericCsvGenerator.Tests\bin\Debug\GenericCsvGenerator.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GenericCsvGenerator\GenericCsvGenerator.Tests\obj\Debug\GenericCsvGenerator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GenericCsvGenerator\GenericCsvGenerator.Tests\obj\Debug\GenericCsvGenerator.Tests.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GenericCsvGenerator\GenericCsvGenerator.Tests\obj\Debug\GenericCsvGenerator.Tests.pdb
